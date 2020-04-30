@@ -5,7 +5,6 @@ A Banking system software where manager can add/view/delete account, can deposit
 Users of the System
 1.	Manager
 
-Functional Requirements
-1. Manager
+Functions of manager:
 1.	Can add/view/edit/delete account
 2.	Can logout
